@@ -14,13 +14,10 @@ Let's learn statistics and probability!
 1. [Installation](installation.md)
 2. [Pengumpulan Latihan](collecting.md)
 
-
-## Modules
+## ModulesA
 1. [Module 1. Descriptive Statistics](module-1)
     * Measures of Central Tendency (Mean, Median, Mode)
     * Measures of Variability (Range, Variance, Standard Deviation)
-    * Percentiles and Quartiles
-    <!-- * Skewness and Kurtosis -->
 2. [Module 2. Probability](module-2)
     <!-- * Probability Definitions and Notation
     * Probability Laws (Addition, Multiplication, Complement)
