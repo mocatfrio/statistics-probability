@@ -24,10 +24,6 @@
 
     ![img13](img/img13.png#center) 
 
-7. Copy your repository URL, and collect it in the spreadsheet [here](https://docs.google.com/spreadsheets/d/12FQ6Ed1Nrm1762zAtp8g2KWf4eAHzJRfsIGSmnzRjiQ/edit#gid=1516166586)
-
-    ![img14](img/img14.png#center) 
-
 
 Catatan:
 * Format file **".ipynb"**

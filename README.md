@@ -12,23 +12,22 @@ Let's learn statistics and probability!
 
 ## How To
 1. [Installation](installation.md)
-2. [Pengumpulan Latihan](collecting.md)
 
 ## ModulesA
 1. [Module 1. Descriptive Statistics](module-1)
     * Measures of Central Tendency (Mean, Median, Mode)
     * Measures of Variability (Range, Variance, Standard Deviation)
-2. [Module 2. Probability](module-2)
+2. Module 2. Probability 
     <!-- * Probability Definitions and Notation
     * Probability Laws (Addition, Multiplication, Complement)
     * Conditional Probability
     * Bayes' Theorem -->
-3. [Module 3. Random Variables](module-3)
+3. Module 3. Random Variables
     <!-- * Discrete and Continuous Random Variables
     * Probability Mass Functions (PMF) and Probability Density Functions (PDF)
     * Cumulative Distribution Functions (CDF)
     * Expected Value and Variance -->
-4. [Module 4. Probability Distributions](module-4)
+4. Module 4. Probability Distributions
     <!-- * Discrete Distributions (Bernoulli, Binomial, Poisson)
     * Continuous Distributions (Uniform, Normal, Exponential)
     * Central Limit Theorem -->
