@@ -9,6 +9,8 @@ Tujuan dari descriptive statistics adalah untuk **menyajikan data dengan cara ya
 ## Table of Contents
 
 1. [Descriptive Statistics Module](https://itsacid-my.sharepoint.com/:b:/r/personal/hafara_its_ac_id/Documents/Teaching/Statistika%20dan%20Probabilitas/Public/Materials/03-Descriptive%20Statistics.pdf?csf=1&web=1&e=3GO2xa)
-2. [Measures of Central Tendency](Module%201.1.ipynb)
-3. [Measures of Variability](Module%201.2.ipynb)
-4. [Percentiles and Quartiles](Module%201.3.ipynb)
+2. [Data Presentation](data_presentation.ipynb)
+3. [Measures of Central Tendency](central_tendency.ipynb)
+4. [Measures of Variability](variability.ipynb)
+5. [Distribution Shape](distribution_shape.ipynb)
+6. [Empirical Rule and Chebyshev's Theorem](empirical_rule_chebyshev_theorem.ipynb)
