@@ -12,5 +12,3 @@ Tujuan dari descriptive statistics adalah untuk **menyajikan data dengan cara ya
 2. [Data Presentation](data_presentation.ipynb)
 3. [Measures of Central Tendency](central_tendency.ipynb)
 4. [Measures of Variability](variability.ipynb)
-5. [Distribution Shape](distribution_shape.ipynb)
-6. [Empirical Rule and Chebyshev's Theorem](empirical_rule_chebyshev_theorem.ipynb)
